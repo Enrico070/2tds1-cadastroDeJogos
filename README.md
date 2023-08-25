@@ -1,6 +1,6 @@
 # Catálogo de Jogos
 
-![Exemplo de Uso](./src/screenshot.png)
+
 
 # Projeto de Lista de Jogos
 
